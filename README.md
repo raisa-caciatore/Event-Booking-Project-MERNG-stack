@@ -4,10 +4,12 @@ This is a Full Stack Web Project With React as the Front - End used and for the 
 <h4>
 <ul>
 <br>
-  <li>
-    Events are visible for booking
-  </li>
-  <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/EventsPage.png" alt="Error Loading" width="60%" height="auto" align="center"/>
+<li>
+  Events are visible for booking
+</li>
+  <div style="text-align:center">
+<img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/EventsPage.png" alt="Error Loading" width="60%" height="auto"/>
+  </div>
 <br>
 <li> In This We Can Book an Event After Siging In, Where the Password is Encrypted </li>
 <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/LoginPage.png" alt="Error Loading" width="60%" height="auto"/>
