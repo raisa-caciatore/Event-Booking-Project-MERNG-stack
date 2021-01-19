@@ -7,7 +7,7 @@ This is a Full Stack Web Project With React as the Front - End used and for the 
 <li>
   Events are visible for booking
 </li>
-  <div style="text-align:center">
+  <div style="text-align:center;">
 <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/EventsPage.png" alt="Error Loading" width="60%" height="auto"/>
   </div>
 <br>
