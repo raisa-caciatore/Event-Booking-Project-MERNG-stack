@@ -7,9 +7,10 @@ This is a Full Stack Web Project With React as the Front - End used and for the 
 <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/LoginPage.png" alt="Error Loading" width="80%"/>
 <li> For Booking an Event A Person Must Be logged In </li>
 <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/CreateEventForm.png" alt="Error Loading" width="80%"/>
-<li> When It comes to authentication i have used Token </li>
-<img src="" alt="Error Loading" width="80%"/>
-<img src="" alt="Error Loading" width="80%"/>
+<li> We Can See the User's Bookings </li>
+<img src="ttps://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/user'sbookings.png" alt="Error Loading" width="80%"/>
+<li> We Can See the User's Bookings and his Expenditure on Events Based on the expense Category By Bar Chart using rechart-js </li>
+<img src="ttps://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/User'sBookingChart.png" alt="Error Loading" width="80%"/>
 <img src="" alt="Error Loading" width="80%"/>
 <img src="" alt="Error Loading" width="80%"/>
 </ul>
