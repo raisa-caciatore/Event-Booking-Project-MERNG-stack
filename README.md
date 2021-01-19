@@ -1,14 +1,14 @@
 <h1> Event Booking Project MERNG Stack </h1>
-<h5>
+<h3>
 This is a Full Stack Web Project With React as the Front - End used and for the backend I haved used Node Js along Mongo DB and performing operations with the  Graph QL API </h3>
 <h4>
 <ul>
-<br/>
+<br>
   <li>
     Events are visible for booking
   </li>
-  <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/EventsPage.png" alt="Error Loading" width="60%" height="auto"/>
-<br/>
+  <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/EventsPage.png" alt="Error Loading" width="60%" height="auto" align="center"/>
+<br>
 <li> In This We Can Book an Event After Siging In, Where the Password is Encrypted </li>
 <img src="https://raw.githubusercontent.com/raisa-caciatore/Event-Booking-Project-MERNG-stack/main/Assets/LoginPage.png" alt="Error Loading" width="60%" height="auto"/>
 <br/>
